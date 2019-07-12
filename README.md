@@ -118,5 +118,3 @@ Example [here](https://codepen.io/minhtranite/pen/RgoaLL)
 | callback | function | A function that gets fired when the popup is clicked |
 | priority | boolean | If true, the message gets inserted at the top |
 
-## Example
-View [demo](http://minhtranite.github.io/react-notifications) or example folder.
